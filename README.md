@@ -1,2 +1,2 @@
-study-enchant-js
+trial-enchant-js
 ================
